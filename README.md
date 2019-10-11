@@ -92,7 +92,7 @@ cat example.txt | grep When
 
 ##### To kill use kill and the process ID (pid)
 
-  kill <pid>
+  kill < pid >
 
 ##### Sending process to background
 
