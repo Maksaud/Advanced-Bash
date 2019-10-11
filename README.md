@@ -96,8 +96,13 @@ cat example.txt | grep When
 
 ##### Sending process to background
 
+###### Process in foreground
   sleep 100
 
-vs
+###### Process in the background
 
   sleep 100 &
+
+  ps aux | grep sleep
+
+  kill 2472
