@@ -1,0 +1,12 @@
+Amzing
+Amzing Wedding photos
+directory_list.txt
+example1.txt
+example2.txt
+example3.txt
+example.txt
+Hello
+photos
+puppy.jpg
+Wedding
+words.txt

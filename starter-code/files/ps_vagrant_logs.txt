@@ -1,0 +1,7 @@
+root      1733  0.0  0.6  92800  6888 ?        Ss   08:30   0:00 sshd: vagrant [priv]
+vagrant   1735  0.0  0.4  45280  4652 ?        Ss   08:30   0:00 /lib/systemd/systemd --user
+vagrant   1737  0.0  0.2  61376  2068 ?        S    08:30   0:00 (sd-pam)
+vagrant   1774  0.0  0.4  93104  4824 ?        S    08:30   0:03 sshd: vagrant@pts/0
+vagrant   1775  0.0  0.5  21448  5564 pts/0    Ss   08:30   0:02 -bash
+vagrant   2433  0.0  0.3  36084  3280 pts/0    R+   11:03   0:00 ps aux
+vagrant   2434  0.0  0.0  12944   960 pts/0    D+   11:03   0:00 grep --color=auto vagrant
